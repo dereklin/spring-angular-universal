@@ -8,6 +8,13 @@ src/main/angular/dist-serverbundle
 src/main/resources/public
 src/main/resources/server.bundle.js
 
+src/main/frontend/node_modules
+src/main/frontend/dist
+src/main/frontend/dist-server
+src/main/frontend/dist-serverbundle
+src/main/resources/public
+src/main/resources/server.bundle.js
+
 .classpath
 .project
 
