@@ -11,3 +11,5 @@ cd ../../..
 
 mvn spring-boot:run
 
+
+https://github.com/swaechter/angularj-universal
