@@ -5,6 +5,8 @@ src/main/angular/node_modules
 src/main/angular/dist
 src/main/angular/dist-server
 src/main/angular/dist-serverbundle
+src/main/resources/public
+src/main/resources/server.bundle.js
 
 .classpath
 .project
